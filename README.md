@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @WeiguangTWK
+- 👀 I’m interested in Hacking, Galgame and ....fun!
+- 🌱 I’m currently learning C++
